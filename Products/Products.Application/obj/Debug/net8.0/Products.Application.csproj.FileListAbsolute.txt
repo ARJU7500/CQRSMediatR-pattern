@@ -1,0 +1,15 @@
+D:\CRN Tech Assesment\Products\Products.Application\bin\Debug\net8.0\Products.Application.deps.json
+D:\CRN Tech Assesment\Products\Products.Application\bin\Debug\net8.0\Products.Application.dll
+D:\CRN Tech Assesment\Products\Products.Application\bin\Debug\net8.0\Products.Application.pdb
+D:\CRN Tech Assesment\Products\Products.Application\bin\Debug\net8.0\Products.Core.dll
+D:\CRN Tech Assesment\Products\Products.Application\bin\Debug\net8.0\Products.Core.pdb
+D:\CRN Tech Assesment\Products\Products.Application\obj\Debug\net8.0\Products.Application.csproj.AssemblyReference.cache
+D:\CRN Tech Assesment\Products\Products.Application\obj\Debug\net8.0\Products.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\CRN Tech Assesment\Products\Products.Application\obj\Debug\net8.0\Products.Application.AssemblyInfoInputs.cache
+D:\CRN Tech Assesment\Products\Products.Application\obj\Debug\net8.0\Products.Application.AssemblyInfo.cs
+D:\CRN Tech Assesment\Products\Products.Application\obj\Debug\net8.0\Products.Application.csproj.CoreCompileInputs.cache
+D:\CRN Tech Assesment\Products\Products.Application\obj\Debug\net8.0\Products.B05A2103.Up2Date
+D:\CRN Tech Assesment\Products\Products.Application\obj\Debug\net8.0\Products.Application.dll
+D:\CRN Tech Assesment\Products\Products.Application\obj\Debug\net8.0\refint\Products.Application.dll
+D:\CRN Tech Assesment\Products\Products.Application\obj\Debug\net8.0\Products.Application.pdb
+D:\CRN Tech Assesment\Products\Products.Application\obj\Debug\net8.0\ref\Products.Application.dll

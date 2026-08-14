@@ -1,0 +1,198 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CRN Tech Assesment\\Products\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4397ED62-4BF0-4931-67A9-E0D68B263AE3}|Products.API\\Products.API.csproj|d:\\crn tech assesment\\products\\products.api\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4397ED62-4BF0-4931-67A9-E0D68B263AE3}|Products.API\\Products.API.csproj|solutionrelative:products.api\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC51A284-3D9D-5977-A2D8-F0F922EEE3E6}|Products.Application\\Products.Application.csproj|d:\\crn tech assesment\\products\\products.application\\commands\\products\\updateproductcommands.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC51A284-3D9D-5977-A2D8-F0F922EEE3E6}|Products.Application\\Products.Application.csproj|solutionrelative:products.application\\commands\\products\\updateproductcommands.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC51A284-3D9D-5977-A2D8-F0F922EEE3E6}|Products.Application\\Products.Application.csproj|d:\\crn tech assesment\\products\\products.application\\commands\\products\\addproductcommands.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC51A284-3D9D-5977-A2D8-F0F922EEE3E6}|Products.Application\\Products.Application.csproj|solutionrelative:products.application\\commands\\products\\addproductcommands.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC51A284-3D9D-5977-A2D8-F0F922EEE3E6}|Products.Application\\Products.Application.csproj|d:\\crn tech assesment\\products\\products.application\\queries\\products\\getproductbyidqueries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC51A284-3D9D-5977-A2D8-F0F922EEE3E6}|Products.Application\\Products.Application.csproj|solutionrelative:products.application\\queries\\products\\getproductbyidqueries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC51A284-3D9D-5977-A2D8-F0F922EEE3E6}|Products.Application\\Products.Application.csproj|d:\\crn tech assesment\\products\\products.application\\queries\\products\\getallproductqueries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC51A284-3D9D-5977-A2D8-F0F922EEE3E6}|Products.Application\\Products.Application.csproj|solutionrelative:products.application\\queries\\products\\getallproductqueries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC51A284-3D9D-5977-A2D8-F0F922EEE3E6}|Products.Application\\Products.Application.csproj|d:\\crn tech assesment\\products\\products.application\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC51A284-3D9D-5977-A2D8-F0F922EEE3E6}|Products.Application\\Products.Application.csproj|solutionrelative:products.application\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5EF728A-ACDD-6F75-F0F2-2D37F46F7A47}|Products.Infrastructure\\Products.Infrastructure.csproj|d:\\crn tech assesment\\products\\products.infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5EF728A-ACDD-6F75-F0F2-2D37F46F7A47}|Products.Infrastructure\\Products.Infrastructure.csproj|solutionrelative:products.infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5EF728A-ACDD-6F75-F0F2-2D37F46F7A47}|Products.Infrastructure\\Products.Infrastructure.csproj|d:\\crn tech assesment\\products\\products.infrastructure\\reposirties\\productsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5EF728A-ACDD-6F75-F0F2-2D37F46F7A47}|Products.Infrastructure\\Products.Infrastructure.csproj|solutionrelative:products.infrastructure\\reposirties\\productsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC51A284-3D9D-5977-A2D8-F0F922EEE3E6}|Products.Application\\Products.Application.csproj|d:\\crn tech assesment\\products\\products.application\\commands\\products\\deleteproductcommands.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC51A284-3D9D-5977-A2D8-F0F922EEE3E6}|Products.Application\\Products.Application.csproj|solutionrelative:products.application\\commands\\products\\deleteproductcommands.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC51A284-3D9D-5977-A2D8-F0F922EEE3E6}|Products.Application\\Products.Application.csproj|d:\\crn tech assesment\\products\\products.application\\interfaces\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC51A284-3D9D-5977-A2D8-F0F922EEE3E6}|Products.Application\\Products.Application.csproj|solutionrelative:products.application\\interfaces\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UpdateProductCommands.cs",
+              "DocumentMoniker": "D:\\CRN Tech Assesment\\Products\\Products.Application\\Commands\\Products\\UpdateProductCommands.cs",
+              "RelativeDocumentMoniker": "Products.Application\\Commands\\Products\\UpdateProductCommands.cs",
+              "ToolTip": "D:\\CRN Tech Assesment\\Products\\Products.Application\\Commands\\Products\\UpdateProductCommands.cs",
+              "RelativeToolTip": "Products.Application\\Commands\\Products\\UpdateProductCommands.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAiwAsAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-14T06:04:37.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AddProductCommands.cs",
+              "DocumentMoniker": "D:\\CRN Tech Assesment\\Products\\Products.Application\\Commands\\Products\\AddProductCommands.cs",
+              "RelativeDocumentMoniker": "Products.Application\\Commands\\Products\\AddProductCommands.cs",
+              "ToolTip": "D:\\CRN Tech Assesment\\Products\\Products.Application\\Commands\\Products\\AddProductCommands.cs",
+              "RelativeToolTip": "Products.Application\\Commands\\Products\\AddProductCommands.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-13T11:35:34.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GetAllProductQueries.cs",
+              "DocumentMoniker": "D:\\CRN Tech Assesment\\Products\\Products.Application\\Queries\\Products\\GetAllProductQueries.cs",
+              "RelativeDocumentMoniker": "Products.Application\\Queries\\Products\\GetAllProductQueries.cs",
+              "ToolTip": "D:\\CRN Tech Assesment\\Products\\Products.Application\\Queries\\Products\\GetAllProductQueries.cs",
+              "RelativeToolTip": "Products.Application\\Queries\\Products\\GetAllProductQueries.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-13T09:02:26.986Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "D:\\CRN Tech Assesment\\Products\\Products.API\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "Products.API\\Controllers\\ProductsController.cs",
+              "ToolTip": "D:\\CRN Tech Assesment\\Products\\Products.API\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "Products.API\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAUwEIAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-13T09:17:13.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "D:\\CRN Tech Assesment\\Products\\Products.Application\\Interfaces\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "Products.Application\\Interfaces\\IProductRepository.cs",
+              "ToolTip": "D:\\CRN Tech Assesment\\Products\\Products.Application\\Interfaces\\IProductRepository.cs",
+              "RelativeToolTip": "Products.Application\\Interfaces\\IProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-13T08:16:19.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "D:\\CRN Tech Assesment\\Products\\Products.Infrastructure\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "Products.Infrastructure\\DependencyInjection.cs",
+              "ToolTip": "D:\\CRN Tech Assesment\\Products\\Products.Infrastructure\\DependencyInjection.cs",
+              "RelativeToolTip": "Products.Infrastructure\\DependencyInjection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-13T08:52:44.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "D:\\CRN Tech Assesment\\Products\\Products.Application\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "Products.Application\\DependencyInjection.cs",
+              "ToolTip": "D:\\CRN Tech Assesment\\Products\\Products.Application\\DependencyInjection.cs",
+              "RelativeToolTip": "Products.Application\\DependencyInjection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-13T09:30:03.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GetProductByIdQueries.cs",
+              "DocumentMoniker": "D:\\CRN Tech Assesment\\Products\\Products.Application\\Queries\\Products\\GetProductByIdQueries.cs",
+              "RelativeDocumentMoniker": "Products.Application\\Queries\\Products\\GetProductByIdQueries.cs",
+              "ToolTip": "D:\\CRN Tech Assesment\\Products\\Products.Application\\Queries\\Products\\GetProductByIdQueries.cs",
+              "RelativeToolTip": "Products.Application\\Queries\\Products\\GetProductByIdQueries.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAwAAABlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-14T05:49:01.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DeleteProductCommands.cs",
+              "DocumentMoniker": "D:\\CRN Tech Assesment\\Products\\Products.Application\\Commands\\Products\\DeleteProductCommands.cs",
+              "RelativeDocumentMoniker": "Products.Application\\Commands\\Products\\DeleteProductCommands.cs",
+              "ToolTip": "D:\\CRN Tech Assesment\\Products\\Products.Application\\Commands\\Products\\DeleteProductCommands.cs",
+              "RelativeToolTip": "Products.Application\\Commands\\Products\\DeleteProductCommands.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-14T05:34:32.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductsRepository.cs",
+              "DocumentMoniker": "D:\\CRN Tech Assesment\\Products\\Products.Infrastructure\\Reposirties\\ProductsRepository.cs",
+              "RelativeDocumentMoniker": "Products.Infrastructure\\Reposirties\\ProductsRepository.cs",
+              "ToolTip": "D:\\CRN Tech Assesment\\Products\\Products.Infrastructure\\Reposirties\\ProductsRepository.cs",
+              "RelativeToolTip": "Products.Infrastructure\\Reposirties\\ProductsRepository.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwBgAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-13T08:14:54.193Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

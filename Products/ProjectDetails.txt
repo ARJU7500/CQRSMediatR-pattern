@@ -1,0 +1,29 @@
+1. blank solution
+ i. ASP.net core web api
+ ii. c# library
+ iii. delete all class file from class library
+
+2. connect all file with each other
+	i. application layer <- core layer
+	ii. API layer <- Application layer, Infrastructure layer
+	iii. Infrastructure layer <- Application layer
+
+3. Dependenct Injection:
+	i. in core layer we add class DependencyInjection.cs then
+		install package : Microsoft.Extensions.DependencyInjection, Microsoft.Extensions.Options.ConfigurationExtension
+	ii. in Application layer add class DependencyInjection.cs
+	iii. in Infrastructure layer add class DependencyInjection.cs
+	iv. in API layer add class DependencyInjection.cs and add all deendency function here.
+	v. in programm.cs add dependencyInjection:  builder.Services.AddAPIDI();
+
+4. use option pettern:
+	i. In core layer we create new folder option folder, Entites
+		A. in options folder we add connectionstringoption.cs class.
+
+	i. infrasture layer we add Persistency folder add AppDbContext.cs file and also we need follow coade first approach
+
+5. in Application layer we create folder Interfaces
+6. in infrastructure layer we create folder repositry
+7. in application layer we install package called MediatR: Newtonsoft.Json, MediatR,  
+		
+	
